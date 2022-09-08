@@ -1,5 +1,6 @@
 # Restaurants Synoptic Project
 
+
 ## Step By Step Plan
 0. Set up readme :white_check_mark:
 1. Menu with 1 item and it's in database and it shows up on the menu page - set up mongodb and express server
@@ -11,3 +12,5 @@
 6. Contact Us page
 7. Set up sign in/sign up page
 8. Set up tests using Jest
+
+
