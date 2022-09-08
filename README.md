@@ -1,1 +1,2 @@
-# restaurants-sp
+# Restaurants Synoptic Project
+==============================
