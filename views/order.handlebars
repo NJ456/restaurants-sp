@@ -1,0 +1,14 @@
+<form action = "/confirm" method="post">
+  <p> Choose your items: </p>
+  <div>
+  {{#each menu}}
+  <input type="radio" id="menuChoices" name="menuItem" value="item" />
+   <label for="menuChoices">{{itemName}}</label>
+    <br>
+  {{/each}}
+  </div>
+  <br>
+  <div>
+   <button type="submit">Submit</button>
+ </div>
+</form>
